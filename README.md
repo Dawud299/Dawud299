@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Dawud299! 👋
 
-<!--
-**Dawud299/Dawud299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I'm currently learning GitHub
+- 🔭 I'm working on improving my programming skills
+- 💬 Ask me about [your interests]
+- 📫 How to reach me: [your preferred contact method]
 
-Here are some ideas to get you started:
+## My GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawud299&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+[Add the tools and technologies you use]
+
+## Connect with Me
+[Add your social media or professional links]
